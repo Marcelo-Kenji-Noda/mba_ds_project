@@ -1,6 +1,6 @@
-# mba_ds_project
+# MBA
 
-## Exploração inicial
+<!-- ## Exploração inicial
 
 ### Dados NaN
 
@@ -19,7 +19,7 @@ Variável de idade até ocorrência de falha ou censura
 Variáveis de tempo até ocorrência de falha ou censura
 
 ![hist_time_x_status](images/hist_time_x_status.png)
-## Referências
+## Referências -->
 
-Fonte dos dados: https://www.kaggle.com/datasets/utkarshx27/breast-cancer-dataset-used-royston-and-altman
+<!-- Fonte dos dados: https://www.kaggle.com/datasets/utkarshx27/breast-cancer-dataset-used-royston-and-altman -->
 
