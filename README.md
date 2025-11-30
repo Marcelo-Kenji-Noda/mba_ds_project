@@ -1,5 +1,11 @@
 # MBA
 
+
+## Estrutura do código
+
+### Análise exploratória dos dados
+
+### 
 <!-- ## Exploração inicial
 
 ### Dados NaN
