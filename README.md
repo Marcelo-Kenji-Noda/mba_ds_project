@@ -7,9 +7,9 @@ Projeto de análise de sobrevivência aplicado ao conjunto de dados "Breast Canc
 
 Principais scripts e notebooks
 ------------------------------
-- **Main:** [main.py](main.py) — Análise exploratória, visualizações (Kaplan-Meier, pirulito, KDE, comparações por grupos), ajuste de modelos paramétricos simples (Weibull, Exponential, Log-Normal), busca por melhor modelo paramétrico e ajuste de modelos de Cox.
-- **Modelos paramétricos (AFT):** [model_parametric.py](model_parametric.py) — Ajuste de modelos AFT (`WeibullAFTFitter`, `LogLogisticAFTFitter`, `LogNormalAFTFitter`), validação cruzada manual (K-fold) para AIC/BIC e resumo dos resultados.
-- **Univariate / spline exploration:** [univariet_parametric.py](univariet_parametric.py) — Ajustes de diversos modelos paramétricos (Weibull, Exponential, Log-Normal, Log-Logistic, Generalized Gamma, Spline) em formato univariado; exploração detalhada de modelos spline com várias localizações de nós e seleção por AIC/BIC; plots de funções de sobrevivência e hazard cumulativo.
+- **Main:** [main.py](scripts/main.py) — Análise exploratória, visualizações (Kaplan-Meier, pirulito, KDE, comparações por grupos), ajuste de modelos paramétricos simples (Weibull, Exponential, Log-Normal), busca por melhor modelo paramétrico e ajuste de modelos de Cox.
+- **Modelos paramétricos (AFT):** [model_parametric.py](scripts/model_parametric.py) — Ajuste de modelos AFT (`WeibullAFTFitter`, `LogLogisticAFTFitter`, `LogNormalAFTFitter`), validação cruzada manual (K-fold) para AIC/BIC e resumo dos resultados.
+- **Univariate / spline exploration:** [univariet_parametric.py](scripts/univariet_parametric.py) — Ajustes de diversos modelos paramétricos (Weibull, Exponential, Log-Normal, Log-Logistic, Generalized Gamma, Spline) em formato univariado; exploração detalhada de modelos spline com várias localizações de nós e seleção por AIC/BIC; plots de funções de sobrevivência e hazard cumulativo.
 
 Dados
 -----
